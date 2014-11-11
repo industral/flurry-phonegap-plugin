@@ -42,7 +42,7 @@
 
 		<source-file src="src/android/Flurry.java"
 						target-dir="src/co/themobilefirm/FlurryPlugin/" />
-		<source-file src="src/android/FlurryAnalytics.jar"
+		<source-file src="../../mobileApp/android/FlurryAnalytics.jar"
 						target-dir="libs" />
 	</platform>
 </plugin>
