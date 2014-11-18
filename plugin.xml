@@ -38,6 +38,5 @@
         </config-file>
 
         <source-file src="src/android/Flurry.java" target-dir="src/co/themobilefirm/FlurryPlugin/"/>
-        <source-file src="../../mobileApp/android/FlurryAnalytics.jar" target-dir="libs"/>
     </platform>
 </plugin>
