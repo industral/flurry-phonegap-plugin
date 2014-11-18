@@ -24,6 +24,8 @@
         </config-file>
 
         <header-file src="src/ios/Flurry.h"/>
+        <header-file src="src/ios/FlurryPlugin.h"/>
+        <source-file src="src/ios/FlurryPlugin.m"/>
         <source-file src="../../mobileApp/ios/libFlurry.a" framework="true"/>
         <framework src="CFNetwork.framework"/>
         <framework src="SystemConfiguration.framework"/>
